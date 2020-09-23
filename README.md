@@ -1,5 +1,7 @@
 # Covid-19-UK-Reporting
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dorset-Health-And-Care/Covid-19-UK-Reporting/master?filepath=Covid19%20UK.ipynb)
+
 Jupyter notebooks demonstrating the use of the UK Governments API for retrieving Covid-19 case and test result data.
 
 API access details are at: https://coronavirus.data.gov.uk/developers-guide
